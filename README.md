@@ -1,6 +1,8 @@
 # pkStore
 Emulator platform keystore, suitable for testing system apps. Default keys sourced from [AOSP](https://github.com/aosp-mirror/platform_build/tree/master/target/product/security). You can use the provided keystore to test system apps on emulator or create your own by following the instructions below.
 
+**Doesn't work on images with Google API's**
+
 
 ## Steps to create a platform.keystore:
 
